@@ -42,3 +42,5 @@ const GenreList = ({ onSelectGenre }: Props) => {
 };
 
 export default GenreList;
+
+//fixed genre filtering
