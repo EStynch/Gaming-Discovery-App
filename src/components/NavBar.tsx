@@ -9,7 +9,7 @@ interface Props {
 
 const NavBar = ({ onSearch }: Props) => {
   return (
-    <Flex gap="135">
+    <Flex gap="110">
       <Box marginX="3">
         <Img src={logo} boxSize="60px" />
       </Box>
